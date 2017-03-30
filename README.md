@@ -1,3 +1,0 @@
-# groepsproject
-groepsproject
-HALLO
